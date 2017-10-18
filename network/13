@@ -1,0 +1,5 @@
+On effectue une requete DNS inverse pour obtenir des informations sur le
+serveur en question (nslookup 10.51.1.253).
+Le resultat nous indique que le nom de domaine de ce serveur est 'dhcp.42.fr',
+on peut donc en déduire que c'est un serveur dhcp, chargé d'attribuer les addresses
+IP aux machines qu'il gère.

@@ -1,0 +1,3 @@
+Dans le cadre d'une requete sur 42.fr, le serveur de 42 et celui de google renvoient les mêmes adresses
+mais celui de 42 en renvoit 2 de plus. Le DNS de 42 possède des informations concernant le nom de domaine
+42.fr qui n'ont pas encore été communiquée a celui de google.
